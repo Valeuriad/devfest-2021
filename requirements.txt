@@ -1,0 +1,28 @@
+# Notebooks
+jupyter==1.0.0
+notebook==6.0.0
+
+
+# Data manipulation
+numpy==1.18.5
+pandas==1.1.4
+
+# Models
+tensorflow==2.3.1
+scikit_learn==0.23.2
+
+
+# Plots
+matplotlib==3.3.3
+
+# Music
+music21==6.7.1
+pyttsx3==2.90
+gtts==2.2.3
+pydub==0.25.1
+simpleaudio==1.0.4
+librosa==0.8.1
+
+
+# Video
+moviepy==1.0.3
