@@ -48,7 +48,12 @@ Pour utiliser ce projet, il vous faut :
 
   Lien windwows : https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2021-10-02-12-23/ffmpeg-N-103927-g68815d6791-win64-gpl.zip
 
-
+3. Pour pouvoir utiliser Tensorflow GPU il est nécessaire d'installer CuDA et CuDNN. L'environnement testé :
+- Python 3.7.5
+- Tensorflow 2.3.1
+- Microsoft Visual C++ 2019
+- CuDA Version 10.1.243 (10.1 update 2 - August 2019)
+- CuDNN cudnn-10.1-windows10-x64-v7.6.4.38
 ---
 
 
